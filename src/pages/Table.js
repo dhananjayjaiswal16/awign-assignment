@@ -62,8 +62,8 @@ const BasicTable = () => {
         <Table sx={{ minWidth: 650 }} aria-label="simple table">
           <TableHead>
             <TableRow>
-              <TableCell align="left"><strong>Id No.</strong></TableCell>
-              <TableCell align="left"><strong>Item Name</strong></TableCell>
+              <TableCell align="left"><strong>Id</strong></TableCell>
+              <TableCell align="left"><strong>Name</strong></TableCell>
               <TableCell align="left"><strong>Color</strong></TableCell>
               <TableCell align="left"><strong>Availability</strong></TableCell>
             </TableRow>
